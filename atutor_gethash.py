@@ -1,3 +1,15 @@
+# python atutor_gethash.py atutor
+# (+) Retrieving username....
+# (+) Retrieving username length....
+# length: 7
+# teacher
+# (+) done!
+# (+) Retrieving password....
+# (+) Retrieving password length....
+# length: 40
+# 8635fc4e2a0c7d9d2d9ee40ea8bf2edd76d5757e
+# (+) done!
+
 import requests
 import sys
 
